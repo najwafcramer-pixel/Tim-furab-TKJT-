@@ -1,1 +1,11 @@
-
+<!DOCTYPE html>
+<html lang="id">
+<head>
+<title>Tim Furab</title>
+</head>
+<body>
+<a herf="tugas.html">Tugas HTML</a>
+<a herf="pengumuman.html">PENGUMUMAN</a>
+<a herf="Presensi.html">Presensi</a>
+<a herf="galeri.html">Gallery</a>
+</body>
