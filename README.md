@@ -1,2 +1,2 @@
 # Tim-furab-TKJT-
-Pengerjaan tugas kolaborasi git sederhana kelas X TKUT 2
+Pengerjaan tugas kolaborasi git sederhana kelas X TKJT 2
